@@ -1,0 +1,505 @@
+.homepage-friends {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  overflow-y: auto;
+}
+
+.homepage-friends .div {
+  background-color: #ffffff;
+  width: 1280px;
+  height: 3700px;
+  position: relative;
+  overflow-y: auto;
+}
+
+.homepage-friends .pirates {
+  position: absolute;
+  width: 592px;
+  height: 512px;
+  top: 725px;
+  left: 344px;
+  background-image: url(./img1/pirates.jpg);
+  background-size: 100% 100%;
+}
+
+.homepage-friends .mask-group {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 13px;
+  left: 523px;
+}
+
+.homepage-friends .group {
+  position: absolute;
+  width: 33px;
+  height: 26px;
+  top: 49px;
+  left: 550px;
+}
+
+.homepage-friends .overlap-group {
+  position: absolute;
+  width: 592px;
+  height: 512px;
+  top: 133px;
+  left: 344px;
+  background-image: url(./img/mask-group-2.png);
+  background-size: 100% 100%;
+}
+
+.homepage-friends .img {
+  position: absolute;
+  width: 592px;
+  height: 512px;
+  top: 0;
+  left: 0;
+}
+
+.homepage-friends .group-2 {
+  position: absolute;
+  width: 33px;
+  height: 26px;
+  top: 50px;
+  left: 550px;
+}
+
+.homepage-friends .vector {
+  position: absolute;
+  width: 42px;
+  height: 46px;
+  top: 662px;
+  left: 892px;
+}
+
+.homepage-friends .overlap-2 {
+  position: absolute;
+  width: 206px;
+  height: 31px;
+  top: 75px;
+  left: 413px;
+  border-radius: 8px;
+}
+
+.homepage-friends .rectangle {
+  top: 0;
+  background-color: #a9c3a8;
+  position: absolute;
+  width: 206px;
+  height: 31px;
+  left: 0;
+  border-radius: 8px;
+}
+
+.homepage-friends .text-wrapper {
+  position: absolute;
+  width: 107px;
+  top: 1px;
+  left: 51px;
+  font-family: "Spinnaker", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage-friends .div-wrapper {
+  position: absolute;
+  width: 206px;
+  height: 31px;
+  top: 75px;
+  left: 660px;
+  background-color: #447d41;
+  border-radius: 8px;
+}
+
+.homepage-friends .text-wrapper-2 {
+  position: absolute;
+  width: 107px;
+  top: 1px;
+  left: 49px;
+  font-family: "Spinnaker", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage-friends .menu {
+  position: fixed;
+  width: 250px;
+  height: 900px;
+  top: 0;
+  left: 0;
+  background-color: #f2f2f299;
+  border-radius: 0px 5px 5px 0px;
+  overflow: hidden;
+}
+
+.homepage-friends .vector-2 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 13px;
+  left: 19px;
+}
+
+.homepage-friends .overlap-3 {
+  position: absolute;
+  width: 206px;
+  height: 31px;
+  top: 353px;
+  left: 19px;
+  border-radius: 8px;
+}
+
+.homepage-friends .rectangle-2 {
+  top: 0;
+  background-color: #447d41;
+  position: absolute;
+  width: 206px;
+  height: 31px;
+  left: 0;
+  border-radius: 8px;
+}
+
+.homepage-friends .text-wrapper-3 {
+  width: 107px;
+  left: 51px;
+  font-family: "Spinnaker", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  top: 0;
+}
+
+.homepage-friends .img-2 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 5px;
+  left: 6px;
+}
+
+.homepage-friends .overlap-4 {
+  position: absolute;
+  width: 206px;
+  height: 32px;
+  top: 302px;
+  left: 19px;
+}
+
+.homepage-friends .rectangle-3 {
+  top: 1px;
+  background-color: #447d41;
+  position: absolute;
+  width: 206px;
+  height: 31px;
+  left: 0;
+  border-radius: 8px;
+}
+
+.homepage-friends .create-svgrepo-com {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 6px;
+  left: 6px;
+}
+
+.homepage-friends .overlap-5 {
+  position: absolute;
+  width: 206px;
+  height: 31px;
+  top: 253px;
+  left: 19px;
+  border-radius: 8px;
+}
+
+.homepage-friends .overlap-6 {
+  position: absolute;
+  width: 206px;
+  height: 31px;
+  top: 203px;
+  left: 19px;
+  background-color: #447d41;
+  border-radius: 8px;
+}
+
+.homepage-friends .text-wrapper-4 {
+  position: absolute;
+  width: 107px;
+  top: 0;
+  left: 50px;
+  font-family: "Spinnaker", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage-friends .vector-3 {
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  top: 4px;
+  left: 4px;
+}
+
+.homepage-friends .overlap-group-2 {
+  position: absolute;
+  width: 206px;
+  height: 31px;
+  top: 153px;
+  left: 19px;
+  border-radius: 8px;
+}
+
+.homepage-friends .text-wrapper-5 {
+  position: absolute;
+  width: 107px;
+  top: 1px;
+  left: 50px;
+  font-family: "Spinnaker", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage-friends .vector-4 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 7px;
+  left: 6px;
+}
+
+.homepage-friends .overlap-7 {
+  position: absolute;
+  width: 206px;
+  height: 31px;
+  top: 739px;
+  left: 25px;
+  background-color: #447d41;
+  border-radius: 8px;
+}
+
+.homepage-friends .overlap-8 {
+  position: absolute;
+  width: 206px;
+  height: 31px;
+  top: 785px;
+  left: 25px;
+  border-radius: 8px;
+}
+
+.homepage-friends .profile-sidebar {
+  width: 390px;
+  height: 900px;
+  left: 1122px;
+  position: fixed;
+  top: 0;
+}
+
+.homepage-friends .heart {
+  position: absolute;
+  width: 45px;
+  height: 38px;
+  top: 669px;
+  left: 402px;
+}
+
+.homepage-friends .flag {
+  position: absolute;
+  width: 36px;
+  height: 41px;
+  top: 670px;
+  left: 350px;
+}
+
+.homepage-friends .heart2 {
+  position: absolute;
+  width: 45px;
+  height: 38px;
+  top: 1260px;
+  left: 402px;
+}
+
+.homepage-friends .flag2 {
+  position: absolute;
+  width: 36px;
+  height: 41px;
+  top: 1261px;
+  left: 350px;
+}
+
+.homepage-friends .vTree2 {
+  position: absolute;
+  width: 42px;
+  height: 46px;
+  top: 1262px;
+  left: 892px;
+}
+
+.homepage-friends .heart3 {
+  position: absolute;
+  width: 45px;
+  height: 38px;
+  top: 1851px;
+  left: 402px;
+}
+
+.homepage-friends .flag3 {
+  position: absolute;
+  width: 36px;
+  height: 41px;
+  top: 1852px;
+  left: 350px;
+}
+
+.homepage-friends .vTree3 {
+  position: absolute;
+  width: 42px;
+  height: 46px;
+  top: 1853px;
+  left: 892px;
+}
+
+.homepage-friends .heart4 {
+  position: absolute;
+  width: 45px;
+  height: 38px;
+  top: 2442px;
+  left: 402px;
+}
+
+.homepage-friends .flag4 {
+  position: absolute;
+  width: 36px;
+  height: 41px;
+  top: 2443px;
+  left: 350px;
+}
+
+.homepage-friends .vTree4 {
+  position: absolute;
+  width: 42px;
+  height: 46px;
+  top: 2444px;
+  left: 892px;
+}
+
+.homepage-friends .heart5 {
+  position: absolute;
+  width: 45px;
+  height: 38px;
+  top: 3033px;
+  left: 402px;
+}
+
+.homepage-friends .flag5 {
+  position: absolute;
+  width: 36px;
+  height: 41px;
+  top: 3034px;
+  left: 350px;
+}
+
+.homepage-friends .vTree5 {
+  position: absolute;
+  width: 42px;
+  height: 46px;
+  top: 3035px;
+  left: 892px;
+}
+
+.homepage-friends .heart6 {
+  position: absolute;
+  width: 45px;
+  height: 38px;
+  top: 3624px;
+  left: 402px;
+}
+
+.homepage-friends .flag6 {
+  position: absolute;
+  width: 36px;
+  height: 41px;
+  top: 3625px;
+  left: 350px;
+}
+
+.homepage-friends .vTree6 {
+  position: absolute;
+  width: 42px;
+  height: 46px;
+  top: 3626px;
+  left: 892px;
+}
+
+
+.homepage-friends .swing {
+  position: absolute;
+  width: 592px;
+  height: 512px;
+  top: 1329px;
+  left: 344px;
+  background-image: url(./img1/austin-schmid-YSJ7Eoz-e2M-unsplash.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.homepage-friends .pismo {
+  position: absolute;
+  width: 592px;
+  height: 512px;
+  top: 1917px;
+  left: 344px;
+  background-image: url(./img1/pismo-dinosaur-caves-beach-cove-tree.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+
+.homepage-friends .MB {
+  position: absolute;
+  width: 592px;
+  height: 512px;
+  top: 2500px;
+  left: 344px;
+  background-image: url(./img1/IMG_1450.jpeg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.homepage-friends .RCL {
+  position: absolute;
+  width: 592px;
+  height: 512px;
+  top: 3100px;
+  left: 344px;
+  background-image: url(./img1/9b765de3-9370-475d-b3a5-a2a359bea36b.webp);
+  background-size: cover;
+  background-position: 50% 50%;
+}
